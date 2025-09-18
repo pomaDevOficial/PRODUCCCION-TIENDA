@@ -1,0 +1,19 @@
+{
+  "routes": {
+    "/": {},
+    "/Admin": {},
+    "/Admin/cliente": {},
+    "/Admin/comprobante": {},
+    "/Admin/inventario/categoria": {},
+    "/Admin/inventario/lote": {},
+    "/Admin/inventario/marca": {},
+    "/Admin/inventario/movimiento": {},
+    "/Admin/inventario/producto": {},
+    "/Admin/inventario/talla": {},
+    "/Admin/pedido": {},
+    "/Admin/persona": {},
+    "/Admin/usuario": {},
+    "/Admin/venta": {},
+    "/login": {}
+  }
+}
